@@ -167,7 +167,7 @@ const API_CONFIG = {
 const M3U8_PATTERN = /\$https?:\/\/[^"'\s]+?\.m3u8/g;
 
 // 添加自定义播放器URL
-const CUSTOM_PLAYER_URL = 'https://cdn.jsdelivr.net/npm/artplayer/dist/artplayer.js'; // 使用相对路径引用本地player.html
+const CUSTOM_PLAYER_URL = 'https://hlsjs.video-dev.org/demo/'; // 使用相对路径引用本地player.html
 
 // 增加视频播放相关配置
 const PLAYER_CONFIG = {
